@@ -1,7 +1,7 @@
 body{
     display:block;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-image: url("https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z3VpdGFyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80");
+    background-image: url("https://images2.alphacoders.com/261/thumb-1920-26102.jpg");
     background-repeat: no-repeat;
     background-size:cover ;
 }
@@ -16,7 +16,7 @@ body{
  {
     height:140px;
     width:100%; 
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKe-ohha2fQ9mQgzXj3ljbMFJgdAxhDnpvow&usqp=CAU");
+    background-image: url("https://media.istockphoto.com/photos/school-picture-id1016131800?b=1&k=20&m=1016131800&s=170667a&w=0&h=imifkJTvS-4b8cvOhVNlCqqvZlwI4S-xCKZ6Oxbla4Q=");
     background-size: 300px;
     background-repeat: no-repeat;
     border-bottom:2px solid #fafdfc;
